@@ -1,22 +1,22 @@
 {
-	"name" : "{{vendor}}/yii2-{{package}}",
+	"name" : "erozcann/portalium",
 	"description" : "{{package}} Module for Portalium (Yii2)",
 	"type" : "portalium-module",
 	"license": "MIT",
 	"homepage" : "https://portalium.dev",
 	"authors" : [
 		{
-			"name" : "Uğur YILDIZ",
-			"email" : "yildiz@diginova.com.tr",
+			"name" : "Erenalp Özcan",
+			"email" : "ernlpzcn41@gmail.com",
 			"homepage" : "https://uguryildiz.net"
 		}
 	],
 	"support" : {
-		"issues" : "https://github.com/{{vendor}}/yii2-{{package}}/issues"
+		"issues" : "https://github.com/erozcann/portalium-todo/issues"
 	},
 	"autoload" : {
 		"psr-4" : {
-			"{{vendor}}\\{{package}}\\" : "src/"
+			"erozcann\\todo\\" : "src/"
 		}
 	}
 }

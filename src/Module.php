@@ -1,9 +1,9 @@
 <?php
 
-namespace {{vendor}}\{{package}};
+namespace erozcann\todo;
 
 use portalium\base\Event;
-use {{vendor}}\{{package}}\components\TriggerActions;
+use erozcann\todo\components\TriggerActions;
 
 class Module extends \portalium\base\Module
 {
